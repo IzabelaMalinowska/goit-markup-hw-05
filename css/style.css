@@ -387,6 +387,7 @@ margin-right: 345px; }*/
 }
 .what-we-do-item {
   position: relative;
+  z-index: -1;
 }
 
 .what-we-do-text {
